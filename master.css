@@ -1,0 +1,26 @@
+BODY {
+	background: #aaccff url(zgifs/Zbaby1y.gif);
+	font-family: Arial, Helvetica, Univers, Sans-Serif
+	}
+P { color:#000000; font-family: Arial, Helvetica, Univers, Sans-Serif; font-size:11pt; }
+H1 { font-size:20pt; color:#000000; font-family: Arial, Helvetica, Univers, Sans-Serif }
+H2 { font-size:16pt; color:#000000; font-family: Arial, Helvetica, Univers, Sans-Serif }
+H3 { font-size:14pt; color:#000000; font-family: Arial, Helvetica, Univers, Sans-Serif }
+H4 { font-size:12pt; color:#000000; font-family: Arial, Helvetica, Univers, Sans-Serif }
+H5 { font-size:9pt; color:#000000; font-family: Arial, Helvetica, Univers, Sans-Serif }
+H5.italic { font-size:9pt; color:#000000; font-family: Arial, Helvetica, Univers, Sans-Serif; font-style: italic }
+H6 { font-size:8pt; color:#000000; font-family: Arial, Helvetica, Univers, Sans-Serif }
+CITE { color:#000000; font-family: Times, "New Century Schoolbook", serif; font-size: 11pt; }
+A:link { color:  #000099}
+A:visited { color: #666666 }
+A:active { color: #660000 }
+P.hang {text-indent: -4em; margin-left: 4em }
+LI { font-size: 9pt; color:#000000 }
+TD.center {align: center; }
+.bold { font-weight: 600 }
+.indent { margin-left: 4em }
+.smindent { margin-left: 2em }
+.lgindent { margin-left: 8em }
+.small { color: #ff0000; font-size: 9pt }
+.red { color: #ff0000 }
+.blue {color: #6666ff ; font-weight: 600 }
